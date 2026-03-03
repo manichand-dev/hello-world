@@ -1,11 +1,32 @@
-# Hello World 👋
+# Hi 👋 I'm Mani Chand
+🎓 B.Tech 2025 Graduate  
+💻 Aspiring Software Developer  
+🚀 Actively building projects and improving problem-solving skills  
 
-Hi, I'm Manichand.  
-This is my first Github repository. 
-I am a B.Tech 2025 graduate looking for opportunities in software development.
+---
+## 👨‍💻 About Me
+- Passionate about software development  
+- Interested in building real-world applications  
+- Continuously learning and improving  
+- Open to job opportunities and collaboration
 
-## About Me
+---
+## 🛠 Skills
+- Programming  
+- Data Structures & Algorithms  
+- Problem Solving  
+- Web Development Basics
 
-- Learning and building projects.
-- Imoroving my coding skills.
-- Open to collaboration.
+---
+## 📌 Current Focus
+- Building strong GitHub projects  
+- Preparing for technical interviews  
+- Strengthening core computer science concepts  
+
+---
+## 📫 Connect With Me
+- LinkedIn: www.linkedin.com/in/manichand-goud
+- Email: manigoud3006@gmail.com 
+
+---
+⭐️ Thanks for visiting my profile!
